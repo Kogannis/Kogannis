@@ -16,6 +16,7 @@
 * ⚡ Работал с аналитикой в вузе на протяжении 6 лет. В период с 2022 года по май 2025 года проводил аналитические исследования на фрилансе. Помогал как студентам, так и выполнял заказы для IT-компаний.
 * 🧠 В свободное время решаю задачи по программированию. Планирую в будущем изучать всё, что касается Data Science и Machine Learning.
 
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy"/></a>
@@ -38,6 +39,10 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/outlook" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="36" height="36" alt="Outlook" title="Outlook"/></a>
 <a href="https://obsidian.md/" target="_blank" rel="noreferrer"><svg width="36" height="36" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><rect width="256" height="256" rx="40" fill="#7C3AED"/><path d="M128 56L56 128l72 72 72-72-72-72zm0 108a36 36 0 1 1 0-72 36 36 0 0 1 0 72z" fill="#FFF"/></svg></a>
 </p>
+
+
+
+
 
 
 
