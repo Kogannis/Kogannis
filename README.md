@@ -11,9 +11,9 @@
 
 Мой стек: 🔧 
 - Python (NumPy, Pandas, Matplotlib), чистый Python (вся база + основы ООП).
-- SQL(Oracle Database, MySQL, PostgreSQL).
+- SQL (Oracle Database, MySQL, PostgreSQL).
 - Power BI (DAX, Power Query), Excel.
-- Git.
+- Git, GitHub.
 - Математическая статистика.
 - Дополнительно в силу образования: экономика и маркетинг.
 
