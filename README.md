@@ -4,11 +4,10 @@
 Начал изучать Python ради интереса на первом курсе обучения в вузе. Уже к третьему курсу проводил аналитические исследования с использованием NumPy, Pandas и Matplotlib. Кроме того, освоил чистый Python. Позже познакомился с базами данных (SQL) и освоил дашборды в Power BI. Имею хорошую базу в области матстата. 
 
 **Стек:**
-- Python (NumPy, Pandas, Matplotlib), чистый Python (вся база + основы ООП).
+- Python (NumPy, Pandas, Matplotlib), чистый Python (вся база + основы ООП), Git, GitHub.
 - SQL (Oracle Database, MySQL, PostgreSQL).
 - Power BI (DAX, Power Query), Excel, PowerPoint, Outlook, Markdown.
 - Jupyter Notebook, VS Code, SQL Developer, DBeaver, PgAdmin. 
-- Git, GitHub.
 - Математическая статистика.
 
 **Образование, опыт, увлечения:**
