@@ -1,14 +1,14 @@
 Приветствую ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Корюн
 =======================================================================================================================================
 
-Начал изучать Python на первом курсе обучения в вузе. Уже к третьему курсу проводил аналитические исследования с использованием NumPy, Pandas и Matplotlib. Также освоил чистый Python. Позже познакомился с базами данных (SQL) и освоил дашборды в Power BI. Кроме того, имею хорошую базу в области математической статистики. 
+Начал изучать Python на первом курсе обучения в вузе. Уже к третьему курсу проводил аналитические исследования с использованием NumPy, Pandas и Matplotlib. Также освоил чистый Python. Позже познакомился с базами данных (SQL) и освоил дашборды в Power BI. Кроме того, имею хорошую базу в области матстата, основ тервера и комбинаторики.
 
 **Стек:**
 - Python (NumPy, Pandas, Matplotlib), чистый Python (вся база + основы ООП), Git, GitHub.
 - SQL (Oracle Database, MySQL, PostgreSQL).
 - Power BI (DAX, Power Query), Excel, PowerPoint, Outlook, Markdown.
 - Jupyter Notebook, VS Code, SQL Developer, DBeaver, PgAdmin. 
-- Математическая статистика.
+- Математическая статистика, теория вероятностей и комбинаторика.
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
