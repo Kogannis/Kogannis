@@ -8,7 +8,7 @@
 - SQL (Oracle Database, MySQL, PostgreSQL).
 - Power BI (DAX, Power Query), Excel, PowerPoint, Outlook, Markdown.
 - Jupyter Notebook, VS Code, SQL Developer, DBeaver, PgAdmin. 
-- Математическая статистика, теория вероятностей и комбинаторика.
+- Математическая статистика, основы теории вероятностей и комбинаторики.
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
