@@ -4,11 +4,12 @@
 Начал изучать Python на первом курсе обучения в вузе. Уже к третьему курсу проводил аналитические исследования с использованием NumPy, Pandas и Matplotlib. Также освоил чистый Python. Позже познакомился с базами данных (SQL) и освоил дашборды в Power BI. Кроме того, имею хорошую базу в области матстата, основ тервера и комбинаторики.
 
 **Стек:**
-- Python (NumPy, Pandas, Matplotlib), чистый Python (вся база + основы ООП), Git, GitHub.
+- Python (NumPy, Pandas, Matplotlib, основы ООП), DAX.
 - SQL (Oracle Database, MySQL, PostgreSQL).
-- Power BI (DAX, Power Query), Excel, PowerPoint, Outlook, Markdown.
-- Jupyter Notebook, VS Code, SQL Developer, DBeaver, PgAdmin. 
-- Математическая статистика, основы теории вероятностей и комбинаторики.
+- Power BI, Power Query, Excel, PowerPoint, Markdown.
+- Git, GitHub.
+- Jupyter Notebook, SQL Developer, DBeaver, PgAdmin.
+- Матстат, основы тервера и комбинаторики.
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
